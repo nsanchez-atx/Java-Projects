@@ -1,6 +1,3 @@
-package hello.java;
-
-
 public class islandFinder {
 
     public static void main(String[] args)
