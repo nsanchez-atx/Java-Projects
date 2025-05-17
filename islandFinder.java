@@ -2,8 +2,6 @@ public class islandFinder {
 
     public static void main(String[] args)
     {
-        
-       
         int[][] map = generate(10, 10);
         System.out.println(island(map));
     }
