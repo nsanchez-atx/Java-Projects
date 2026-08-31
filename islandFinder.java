@@ -1,3 +1,5 @@
+// Finds how many standalone islands there are using recursion. 1 is land, and 0 is water.
+
 public class islandFinder {
 
     public static void main(String[] args)
